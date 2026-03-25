@@ -109,7 +109,7 @@ Formalizing a business problem as an optimization model provides:
 ## 📈 Progress
 
 - [x] Lesson 1 — Introduction to Mathematical Optimization
-- [ ] Lesson 2 — Linear Programming
+- [x] Lesson 2 — Linear Programming
 - [ ] Lesson 3 — Nonlinear Programming
 - [ ] Lesson 4 — Integer & Mixed Integer Linear Programming
 - [ ] Lesson 5 — Open Source Interactivity
